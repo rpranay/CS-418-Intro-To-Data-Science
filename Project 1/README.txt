@@ -3,7 +3,6 @@ transform.py on execution will create "transformed.csv" which will contain the t
 
 #clean.py
 clean.py takes a dataset as command line argument and cleans all the data into a new file cleaned.txt
-
 Based on the conditions given for last names implemented split method with delimiters. Added the last_name as key and corresponding courses as its value and printed the results onto the new file cleaned.txt with a proper format
 
 #query.py
