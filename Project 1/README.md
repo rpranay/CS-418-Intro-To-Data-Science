@@ -1,12 +1,12 @@
-#transform.py
+transform.py
 transform.py on execution will create "transformed.csv" which will contain the table 'list of of super bowl champions' from the wikipedia page - "https://en.wikipedia.org/wiki/List_of_Super_Bowl_champions"
 
-#clean.py
+clean.py
 clean.py takes a dataset as command line argument and cleans all the data into a new file cleaned.txt
 
 Based on the conditions given for last names implemented split method with delimiters. Added the last_name as key and corresponding courses as its value and printed the results onto the new file cleaned.txt with a proper format
 
-#query.py
+query.py
 query.py takes a cleaned dataset and professor name as command line arguments and prints corresponding result on terminal
 
 This script performs 3 queries
